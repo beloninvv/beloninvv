@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📌 About me
+DS 
+
+📫 My contacts
+
+Linkedin: https://www.linkedin.com/in/beloninvv/
+
+Telegram: https://t.me/vova_belonin
+
+Mail: belonin.vv@phystech.edu
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beloninvv&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beloninvv&layout=compact&theme=tokyonight)
+
+![Snake animation](https://github.com/beloninvv/beloninvv/blob/output/github-contribution-grid-snake.svg)
