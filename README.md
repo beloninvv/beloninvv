@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💻 I work as a data scientist at GlowByte
 
 🤓 Bachelor's degree at the Moscow Institute of Physics and Technology (Applied Mathematics)         
-Master's degree at the same place (Сomputer science and Engineering)
+Master's degree at the same institute (Сomputer science and Engineering)
 
 📫 My contacts
 
