@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📌 About me
+
 DS 
 
 📫 My contacts
@@ -29,4 +30,3 @@ Mail: belonin.vv@phystech.edu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beloninvv&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/beloninvv/beloninvv/blob/output/github-contribution-grid-snake.svg)
