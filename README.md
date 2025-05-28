@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 📌 About me
 
-💻 I work as a data scientist at GlowByte
+💻 I work as a middle risk data scientist at GlowByte
 
 🤓 Bachelor's degree at the Moscow Institute of Physics and Technology (Applied Mathematics)         
 Master's degree at the same institute (Сomputer science and Engineering)
