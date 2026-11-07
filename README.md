@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🤓 Bachelor's degree at the Moscow Institute of Physics and Technology (Applied Mathematics)         
 Master's degree at the same institute (Сomputer science and Engineering)
-
+Phd at Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences
 📫 My contacts
 
 Linkedin: https://www.linkedin.com/in/beloninvv/
